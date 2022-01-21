@@ -1,11 +1,11 @@
 import {useEffect, useState} from 'react'
 import ScoreBoard from './components/ScoreBoard'
-import blueCandy from './images/i-01.png'
-import greenCandy from './images/i-02.png'
-import orangeCandy from './images/i-03.png'
-import purpleCandy from './images/i-04.png'
-import redCandy from './images/i-05.png'
-import yellowCandy from './images/i-06.png'
+import blueCandy from './images/Xiao.png'
+import greenCandy from './images/KazuTaiyaki.png'
+import orangeCandy from './images/Childe.png'
+import purpleCandy from './images/Ei.png'
+import redCandy from './images/ThomaTaro.png'
+import yellowCandy from './images/ZhongliTe.png'
 import blank from './images/blank.png'
 
 const width = 8
