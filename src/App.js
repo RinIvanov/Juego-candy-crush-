@@ -1,21 +1,21 @@
 import {useEffect, useState} from 'react'
 import ScoreBoard from './components/ScoreBoard'
-import blueCandy from './images/Xiao.png'
-import greenCandy from './images/KazuTaiyaki.png'
-import orangeCandy from './images/Childe.png'
-import purpleCandy from './images/Ei.png'
-import redCandy from './images/ThomaTaro.png'
-import yellowCandy from './images/ZhongliTe.png'
+import Xiao from './images/Xiao.png'
+import KazuTaiyaki from './images/KazuTaiyaki.png'
+import Childe from './images/Childe.png'
+import Ei from './images/Ei.png'
+import ThomaTaro from './images/ThomaTaro.png'
+import ZhongliTe from './images/ZhongliTe.png'
 import blank from './images/blank.png'
 
 const width = 8
-const candyColors = [
-    blueCandy,
-    orangeCandy,
-    purpleCandy,
-    redCandy,
-    yellowCandy,
-    greenCandy
+const Personajes = [
+    Xiao,
+    Childe,
+   Ei,
+    ThomaTaro,
+    ZhongliTe,
+    KazuTaiyaki
 ]
 
 const App = () => {
@@ -92,8 +92,8 @@ const App = () => {
             const isFirstRow = firstRow.includes(i)
 
             if (isFirstRow && currentColorArrangement[i] === blank) {
-                let randomNumber = Math.floor(Math.random() * candyColors.length)
-                currentColorArrangement[i] = candyColors[randomNumber]
+                let randomNumber = Math.floor(Math.random() * Personajes.length)
+                currentColorArrangement[i] = Personajes[randomNumber]
             }
 
             if ((currentColorArrangement[i + width]) === blank) {
@@ -146,7 +146,7 @@ const App = () => {
     const createBoard = () => {
         const randomColorArrangement = []
         for (let i = 0; i < width * width; i++) {
-            const randomColor = candyColors[Math.floor(Math.random() * candyColors.length)]
+            const randomColor = Personajes[Math.floor(Math.random() * Personajes.length)]
             randomColorArrangement.push(randomColor)
         }
         setCurrentColorArrangement(randomColorArrangement)
