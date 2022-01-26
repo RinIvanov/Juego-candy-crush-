@@ -1,8 +1,8 @@
 import {useEffect, useState} from 'react'
 import ScoreBoard from './components/ScoreBoard'
-import Xiao from './images/Xiao.png'
+import Sucrose from './images/Sucrose.png'
 import KazuTaiyaki from './images/KazuTaiyaki.png'
-import ChildeChillin from './images/Childe.png'
+import ChildeChillin from './images/Ajax.png'
 import Eii from './images/Ei.png'
 import ThomaTaro from './images/ThomaTaro.png'
 import ZhongliTe from './images/ZhongliTe.png'
@@ -10,7 +10,7 @@ import blank from './images/blank.png'
 
 const width = 8
 const Personajes = [
-    Xiao,
+    Sucrose,
     ChildeChillin,
    Eii,
     ThomaTaro,
