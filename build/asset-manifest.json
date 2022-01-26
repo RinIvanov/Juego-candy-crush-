@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/candy-crush/static/css/main.043157bb.chunk.css",
-    "main.js": "/candy-crush/static/js/main.a9b672ea.chunk.js",
-    "main.js.map": "/candy-crush/static/js/main.a9b672ea.chunk.js.map",
-    "runtime-main.js": "/candy-crush/static/js/runtime-main.117bb540.js",
-    "runtime-main.js.map": "/candy-crush/static/js/runtime-main.117bb540.js.map",
-    "static/js/2.c11f4a8e.chunk.js": "/candy-crush/static/js/2.c11f4a8e.chunk.js",
-    "static/js/2.c11f4a8e.chunk.js.map": "/candy-crush/static/js/2.c11f4a8e.chunk.js.map",
-    "index.html": "/candy-crush/index.html",
-    "static/css/main.043157bb.chunk.css.map": "/candy-crush/static/css/main.043157bb.chunk.css.map",
-    "static/js/2.c11f4a8e.chunk.js.LICENSE.txt": "/candy-crush/static/js/2.c11f4a8e.chunk.js.LICENSE.txt",
-    "static/media/blank.fbcb9179.png": "/candy-crush/static/media/blank.fbcb9179.png",
-    "static/media/blue-candy.73120c15.png": "/candy-crush/static/media/blue-candy.73120c15.png",
-    "static/media/green-candy.599f7016.png": "/candy-crush/static/media/green-candy.599f7016.png",
-    "static/media/orange-candy.f106b2cd.png": "/candy-crush/static/media/orange-candy.f106b2cd.png",
-    "static/media/purple-candy.ae25b8a5.png": "/candy-crush/static/media/purple-candy.ae25b8a5.png",
-    "static/media/red-candy.3658b37c.png": "/candy-crush/static/media/red-candy.3658b37c.png",
-    "static/media/yellow-candy.a3d87a9b.png": "/candy-crush/static/media/yellow-candy.a3d87a9b.png"
+    "main.css": "/Juego-candy-crush-/static/css/main.678a4b54.chunk.css",
+    "main.js": "/Juego-candy-crush-/static/js/main.e2f24410.chunk.js",
+    "main.js.map": "/Juego-candy-crush-/static/js/main.e2f24410.chunk.js.map",
+    "runtime-main.js": "/Juego-candy-crush-/static/js/runtime-main.d05e0ff2.js",
+    "runtime-main.js.map": "/Juego-candy-crush-/static/js/runtime-main.d05e0ff2.js.map",
+    "static/js/2.780150ab.chunk.js": "/Juego-candy-crush-/static/js/2.780150ab.chunk.js",
+    "static/js/2.780150ab.chunk.js.map": "/Juego-candy-crush-/static/js/2.780150ab.chunk.js.map",
+    "index.html": "/Juego-candy-crush-/index.html",
+    "static/css/main.678a4b54.chunk.css.map": "/Juego-candy-crush-/static/css/main.678a4b54.chunk.css.map",
+    "static/js/2.780150ab.chunk.js.LICENSE.txt": "/Juego-candy-crush-/static/js/2.780150ab.chunk.js.LICENSE.txt",
+    "static/media/Childe.332624dd.png": "/Juego-candy-crush-/static/media/Childe.332624dd.png",
+    "static/media/Ei.57ca558c.png": "/Juego-candy-crush-/static/media/Ei.57ca558c.png",
+    "static/media/KazuTaiyaki.a569e894.png": "/Juego-candy-crush-/static/media/KazuTaiyaki.a569e894.png",
+    "static/media/ThomaTaro.46f03928.png": "/Juego-candy-crush-/static/media/ThomaTaro.46f03928.png",
+    "static/media/Xiao.8ca2c9af.png": "/Juego-candy-crush-/static/media/Xiao.8ca2c9af.png",
+    "static/media/ZhongliTe.7d17419e.png": "/Juego-candy-crush-/static/media/ZhongliTe.7d17419e.png",
+    "static/media/blank.fbcb9179.png": "/Juego-candy-crush-/static/media/blank.fbcb9179.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.117bb540.js",
-    "static/js/2.c11f4a8e.chunk.js",
-    "static/css/main.043157bb.chunk.css",
-    "static/js/main.a9b672ea.chunk.js"
+    "static/js/runtime-main.d05e0ff2.js",
+    "static/js/2.780150ab.chunk.js",
+    "static/css/main.678a4b54.chunk.css",
+    "static/js/main.e2f24410.chunk.js"
   ]
 }
