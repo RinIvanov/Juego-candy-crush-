@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Juego-candy-crush-/static/css/main.678a4b54.chunk.css",
+    "main.js": "/Juego-candy-crush-/static/js/main.e2f24410.chunk.js",
+    "main.js.map": "/Juego-candy-crush-/static/js/main.e2f24410.chunk.js.map",
+    "runtime-main.js": "/Juego-candy-crush-/static/js/runtime-main.d05e0ff2.js",
+    "runtime-main.js.map": "/Juego-candy-crush-/static/js/runtime-main.d05e0ff2.js.map",
+    "static/js/2.780150ab.chunk.js": "/Juego-candy-crush-/static/js/2.780150ab.chunk.js",
+    "static/js/2.780150ab.chunk.js.map": "/Juego-candy-crush-/static/js/2.780150ab.chunk.js.map",
+    "index.html": "/Juego-candy-crush-/index.html",
+    "static/css/main.678a4b54.chunk.css.map": "/Juego-candy-crush-/static/css/main.678a4b54.chunk.css.map",
+    "static/js/2.780150ab.chunk.js.LICENSE.txt": "/Juego-candy-crush-/static/js/2.780150ab.chunk.js.LICENSE.txt",
+    "static/media/Childe.332624dd.png": "/Juego-candy-crush-/static/media/Childe.332624dd.png",
+    "static/media/Ei.57ca558c.png": "/Juego-candy-crush-/static/media/Ei.57ca558c.png",
+    "static/media/KazuTaiyaki.a569e894.png": "/Juego-candy-crush-/static/media/KazuTaiyaki.a569e894.png",
+    "static/media/ThomaTaro.46f03928.png": "/Juego-candy-crush-/static/media/ThomaTaro.46f03928.png",
+    "static/media/Xiao.8ca2c9af.png": "/Juego-candy-crush-/static/media/Xiao.8ca2c9af.png",
+    "static/media/ZhongliTe.7d17419e.png": "/Juego-candy-crush-/static/media/ZhongliTe.7d17419e.png",
+    "static/media/blank.fbcb9179.png": "/Juego-candy-crush-/static/media/blank.fbcb9179.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d05e0ff2.js",
+    "static/js/2.780150ab.chunk.js",
+    "static/css/main.678a4b54.chunk.css",
+    "static/js/main.e2f24410.chunk.js"
+  ]
+}
